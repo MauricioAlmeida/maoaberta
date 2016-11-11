@@ -1,0 +1,5 @@
+prettyconf==1.2.3
+Django==1.10
+Pillow==3.3.0
+dj-static==0.0.6
+dj-database-url==0.4.1
